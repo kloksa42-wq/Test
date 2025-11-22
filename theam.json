@@ -3,7 +3,7 @@
   "description": "AMOLED Rem theme",
   "authors": [
     {
-      "name": "wiwiichan",
+      "name": "kh;",
       "id": "725075745671479296"
     }
   ],
@@ -121,7 +121,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "/mnt/data/496DD089-3C13-4F7A-843F-FCF7054B7ECE.jpeg",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_q4YS0-k0VX6lblZPd8bYLLRgVZX9mA6KgQvvgyxA3w-2xAUC-wIJNJDLfafWYKbEQ90&usqp=CAU",
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
